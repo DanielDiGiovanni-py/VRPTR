@@ -29,7 +29,7 @@ According to **Chapter 2** of the thesis, resting-state networks have become inc
 **(Figure)** Below is an illustrative figure from **Chapter 2** showing resting-state connectivity patterns for a subject (adapted from the thesis).
 
 ![Figure from Chapter 2: Resting-state networks](images/chapter2-rsfc.png)  
-*Figure 2.1. Example resting-state networks identified in the cortex. Green outlines a sensorimotor network, and orange outlines a language network (adapted from the thesis).*
+*Example resting-state networks identified in the cortex. Green outlines a sensorimotor network, and orange outlines a language network (adapted from the thesis).*
 
 ---
 
@@ -59,7 +59,7 @@ According to **Chapter 2** of the thesis, resting-state networks have become inc
 Below is a conceptual figure from **Chapter 5** illustrating VRPTR’s architecture.
 
 ![Figure from Chapter 5: VRPTR Architecture](images/chapter5-vrptr.png)  
-*Figure 5.2. The VRPTR pipeline. A U-Net with mesh-based convolutions is augmented by a Transformer-based latent space and a VAE-like reparameterization step (adapted from the thesis).*
+*The VRPTR architecture. A U-Net with mesh-based convolutions is augmented by a Transformer-based latent space and a VAE-like reparameterization step (adapted from the thesis).*
 
 ---
 
