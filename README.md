@@ -1,7 +1,7 @@
 # VRPTR: Predicting Task-Activated fMRI from Resting-State Data on Cortical Meshes
 
 **Author**: Daniel A. Di Giovanni
-**Chapters Referenced**: Chapter 2 (“Resting-State Functional Connectivity for Brain Mapping”) and Chapter 5 (“Mesh-Based Deep Learning Models for fMRI Analysis”)
+**Chapters Referenced**: Chapter 2 (“Background”) and Chapter 5 (“V-RPTR”)
 
 ---
 
