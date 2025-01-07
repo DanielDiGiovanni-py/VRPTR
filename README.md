@@ -1,7 +1,3 @@
-Below is a sample **README.md** that thoroughly explains the **VRPTR** project, referencing **Chapter 2** and **Chapter 5** of the thesis on which it is based. Since we do not have direct access to the thesis document in this environment, the references to text and figures/images are illustrative placeholders. You should adapt the section titles, figure captions, and references to match the actual thesis content and figure file names.
-
----
-
 # VRPTR: Predicting Task-Activated fMRI from Resting-State Data on Cortical Meshes
 
 **Author**: Daniel A. Di Giovanni
