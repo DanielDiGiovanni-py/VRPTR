@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains code for **VRPTR** (“Variational Resting-state to Task Prediction Transformer”), a deep learning framework to predict **task-evoked** fMRI activity from **resting-state** fMRI data on cortical surfaces. The project is inspired by concepts and methodologies introduced in **Chapter 2** (fundamentals of resting-state functional connectivity in neurosurgical planning) and **Chapter 5** (mesh-based CNNs and Transformers for fMRI data) of the attached thesis.
+This repository contains code for **VRPTR** (“Variational Resting-state to Task Prediction Transformer”), a deep learning framework to predict **task-evoked** fMRI activity from **resting-state** fMRI data on cortical surfaces. The project is inspired by concepts and methodologies introduced in **Chapter 2** (fundamentals of resting-state functional connectivity in neurosurgical planning) and **Chapter 5** (mesh-based CNNs and Transformers for fMRI data) of the thesis: Deep Learning and Statistical Methods for Clinical Application of Functional Magnetic Resonance Imaging.
 
 ### What is VRPTR?
 
@@ -26,7 +26,7 @@ According to **Chapter 2** of the thesis, resting-state networks have become inc
 - **Potential for Preoperative Mapping**: Surgeons can glean an approximation of activation patterns (e.g., motor, language) from resting-state connectivity alone.  
 - **Challenges**: Mapping from “connectivity fingerprints” to actual task-activated patterns is highly **non-linear** and requires large-scale data-driven approaches—hence the impetus for a deep learning solution.
 
-**(Figure)** Below is an illustrative figure from **Chapter 2** showing resting-state connectivity patterns for a subject (adapted from the thesis).
+Below is an illustrative figure from **Chapter 2** showing resting-state connectivity patterns for a subject (adapted from the thesis).
 
 ![Figure from Chapter 2: Resting-state networks](images/chapter2-rsfc.png)  
 *Example resting-state networks identified in the cortex. Green outlines a sensorimotor network, and orange outlines a language network (adapted from the thesis).*
