@@ -51,7 +51,7 @@ Below is an illustrative figure from **Chapter 2** showing resting-state connect
    - This step captures long-range dependencies on the cortical surface, hypothesized to be crucial for functional connectivity patterns.
 
 4. **Variational Regularization**:
-   - VRPTR includes a **VAE-like** branch with learned **\(\mu\)** and **\(\sigma\)**.  
+   - VRPTR includes a **VAE-like** branch with learned **\(mu)** and **\(sigma)**.  
    - The **KL divergence** is tracked as a regularization term in training. This helps the model learn a smoother, more generalizable latent space.
 
 5. **Output**: Predicted **task-activation** maps (e.g., for motor/language tasks) at each vertex, derived purely from the resting-state input.
